@@ -46,13 +46,15 @@ while (keepPlaying != "No")
             break;
         }
     }
-    // for debugging or if you want a cheat sheet
-    
+
+    /*
+    for debugging or if you want a cheet guide?
     Console.WriteLine(door1);
     Console.WriteLine(door2);
     Console.WriteLine(door3);
     Console.WriteLine(door4);
     Console.WriteLine(door5);
+    */
     
     bool programRun = true;
     // Greets the users, welcomes them to the program, and tells the user what to do.
